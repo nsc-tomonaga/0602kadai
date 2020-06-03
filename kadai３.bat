@@ -1,0 +1,1 @@
+set /p url="URL‚ð“ü—Í‚µ‚Ä‚­‚¾‚³‚¢:"set url= %url:https://=%set url= %url:http://=%ping %url%pause
